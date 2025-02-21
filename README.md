@@ -1,0 +1,1 @@
+This repository contains a Dockerfile that demonstrates a common error in Docker builds due to incorrect dependencies and file paths. The original Dockerfile produces errors during the build or runtime. The solution shows the corrected Dockerfile, illustrating how to properly define dependencies and the CMD instruction for successful execution.
